@@ -57,3 +57,7 @@ You may download QtWebApp.zip for free and use the software under the conditions
 Thanks
 ------
 The current high quality of the library is the result of the collaboration of many people. I would like to thank the helpers for testing QtWebApp extensively in a productive environment and thus contributing to the improvement.
+
+Version
+-------
+從版本 1.7.11 28.12.2019 複製過來的
